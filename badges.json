@@ -11,6 +11,18 @@
             "pt": "O autor arrotou. E foi só isso."
         }
     },
+    "7188906494": {
+        "documentId": 5319058069697600910,
+        "text": {
+            "ru": "Рофл?",
+            "en": "Rofl?",
+            "uk": "Рофл?",
+            "de": "Rofl?",
+            "es": "Rofl?",
+            "fr": "Rofl?",
+            "pt": "Rofl?"
+        }
+    },
     "420220972": {
         "documentId": 5391256882260254033,
         "text": {
@@ -24,7 +36,7 @@
         }
     },
     "1439824385": {
-        "documentId":5361674397360890295,
+        "documentId": 5361674397360890295,
         "text": {
             "ru": "Mr.Bwaaa Murkin",
             "en": "Mr.Bwaaa Murkin",
@@ -35,8 +47,6 @@
             "pt": "Mr.Bwaaa Murkin"
         }
     },
-    
-    
     "-1002977846884": {
         "documentId": 5366222406950073747,
         "text": {
@@ -60,5 +70,5 @@
             "fr": "Canal du développeur KPM",
             "pt": "Canal do desenvolvedor do KPM"
         }
-    }
+    },
 }
